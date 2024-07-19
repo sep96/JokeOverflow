@@ -23,7 +23,6 @@ Welcome to Joke Overflow, where software development meets dad humor! This proje
 - **Clean Architecture**: Keeping our code as clean as our humor
 - **Microservices**: Small services for big laughs
 - **MassTransit**: Transporting jokes at the speed of dad
-- **Docker**: Containerizing our comedy for easy deployment
 
 ## 🏗️ Architecture
 
@@ -40,27 +39,25 @@ Our microservices are like a well-orchestrated comedy routine:
 9. 🚪 API Gateway
 10. 🖥️ Frontend Service
 
-Each service is containerized with Docker for easy deployment and scaling.
-
 ## 🚀 Getting Started
 
 1. Clone this repository
-2. Ensure Docker is installed on your machine
-3. Run `docker-compose up` to build and start all services
-4. Navigate to `http://localhost:5000` to start groaning
-
+2. Run `docker-compose up` to start the laugh factory
+3. Navigate to `http://localhost:5000` to start groaning
 ## 🐳 Docker
 
 We use Docker to containerize our services, ensuring consistent environments across development and production. Each microservice has its own Dockerfile, and we use docker-compose for orchestration.
 
 To build and run all services:
-
-```bash
 docker-compose up --build
 
 ## 🤝 Contributing
 
 Got a good (bad) joke? Know how to make our code funnier? Contributions are welcome! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. Feel free to fork it, but remember: with great power comes great responsibility to make terrible puns.
 
 ## 🙏 Acknowledgments
 
