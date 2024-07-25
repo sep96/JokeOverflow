@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qdTdMliepmc=",
+  "dgSpecHash": "iRKmPgxlb+c=",
   "success": true,
   "projectFilePath": "D:\\JokeOverflow\\JokeMicroservice\\Source\\Services\\Joke\\Joke.Api\\Joke.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Caroline\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\Caroline\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Caroline\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Caroline\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
   ],
   "logs": []
